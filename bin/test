@@ -1,0 +1,3 @@
+Virtualisation | Isolate cpu, memory and io per process
+Concurrency | Work on multiple tasks at the same time
+Persistence | Data remains even after shutdown
