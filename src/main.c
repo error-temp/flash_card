@@ -13,7 +13,7 @@
 
 Arena string_buffer;
 
-i32 main(int argc, char **argv) {
+i32 main(i32 argc, char **argv) {
   if (argc <= 1) {
     fprintf(stderr, "No input file\n");
     return 1;
